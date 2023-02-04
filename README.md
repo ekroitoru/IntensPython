@@ -1,0 +1,5 @@
+x = input()
+n = input()
+c = input()
+
+print(n[0], x[0], c[0], sep = '')
