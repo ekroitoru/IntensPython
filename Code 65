@@ -1,0 +1,5 @@
+x = input() # имя
+n = input() # фамилия
+c = input() # отчество
+
+print(n[0], x[0], c[0], sep = '')
