@@ -1,6 +1,6 @@
 from random import uniform
 
-k, n = 0, 10**6       # количество испытаний
+k, n = 0, 10**6       
 
 for _ in range(n):
     x = uniform(-2, 2)
